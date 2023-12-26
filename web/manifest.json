@@ -1,6 +1,6 @@
 {
-    "name": "siri",
-    "short_name": "siri",
+    "name": "allen",
+    "short_name": "allen",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

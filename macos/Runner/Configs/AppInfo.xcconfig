@@ -5,10 +5,10 @@
 // 'flutter create' template.
 
 // The application's name. By default this is also the title of the Flutter window.
-PRODUCT_NAME = siri
+PRODUCT_NAME = allen
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.priyanshu.siri.siri
+PRODUCT_BUNDLE_IDENTIFIER = com.rivaan.allen.allen
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2023 com.priyanshu.siri. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2023 com.rivaan.allen. All rights reserved.
