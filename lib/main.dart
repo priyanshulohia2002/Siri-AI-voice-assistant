@@ -1,5 +1,5 @@
-import 'package:allen/home_page.dart';
-import 'package:allen/pallete.dart';
+import 'package:siri/home_page.dart';
+import 'package:siri/pallete.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
       //},
       //
       debugShowCheckedModeBanner: false,
-      title: 'Allen',
+      title: 'siri',
       theme: ThemeData.light(useMaterial3: true).copyWith(
         scaffoldBackgroundColor: Pallete.whiteColor,
         appBarTheme: const AppBarTheme(
